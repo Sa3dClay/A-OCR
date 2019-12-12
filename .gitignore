@@ -1,2 +1,2 @@
-dataset/ahcd1
-dataset/ahdd1
+dataset/ahcd1/*.csv
+dataset/ahdd1/*.csv
